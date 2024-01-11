@@ -1,0 +1,20 @@
+.hidden{
+    display: none;
+}
+
+
+
+/* SCROL */
+
+::-webkit-scrollbar{
+    width: 13px;
+  }
+  
+  ::-webkit-scrollbar-track{
+    background: #ebd4fb; 
+  }
+  
+  ::-webkit-scrollbar-thumb{
+    background: #ad4ee4;
+    border-radius: 10px;
+  }
